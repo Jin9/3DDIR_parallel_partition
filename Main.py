@@ -27,7 +27,7 @@ if __name__ == '__main__' :
 
     names = ['m0']
 
-    # 2 core
+    # 8 processors
 
     for name in names :
 
